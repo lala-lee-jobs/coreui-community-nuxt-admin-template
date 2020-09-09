@@ -33,6 +33,7 @@
     "@storybook/vue": "^6.0.21",
     "babel-eslint": "^8.2.1",
     "babel-loader": "^8.1.0",
+    "core-js": "^3.6.5",
     "eslint": "^4.15.0",
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-loader": "^2.0.0",
